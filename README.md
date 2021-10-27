@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkelesheitX
 - 👀 I’m interested in programming and gaming ^_^ 
-- 🌱 I’m currently learning pyhton, c++, c#
+- 🌱 I’m currently learning python, c++, c#
 - 💞️ I’m looking to collaborate on .... i dont know
 - 📫 How to reach me ... it's secret
 
